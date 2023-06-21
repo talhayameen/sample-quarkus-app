@@ -1,0 +1,11 @@
+org/saharsh/samples/quarkus/service/InMemoryStorageService.class
+org/saharsh/samples/quarkus/health/ReadinessCheck.class
+org/saharsh/samples/quarkus/resources/ValuesResource.class
+org/saharsh/samples/quarkus/service/StorageServiceProducer.class
+org/saharsh/samples/quarkus/health/LivenessCheck.class
+org/saharsh/samples/quarkus/service/PersistentStorageService.class
+org/saharsh/samples/quarkus/model/StoredValue.class
+org/saharsh/samples/quarkus/resources/apmTest.class
+org/saharsh/samples/quarkus/service/StorageService.class
+org/saharsh/samples/quarkus/service/ConfiguredStorage.class
+org/saharsh/samples/quarkus/persistence/PersistedValue.class

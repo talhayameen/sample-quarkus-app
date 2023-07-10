@@ -1,2 +1,2 @@
-/home/bahl/deployement/sample-quarkus-app/src/test/java/org/saharsh/samples/quarkus/resources/NativeValuesResourceIT.java
-/home/bahl/deployement/sample-quarkus-app/src/test/java/org/saharsh/samples/quarkus/resources/ValuesResourceTest.java
+/home/bahl/Documents/deployment/apm-projects/sample-quarkus-app/src/test/java/org/saharsh/samples/quarkus/resources/ValuesResourceTest.java
+/home/bahl/Documents/deployment/apm-projects/sample-quarkus-app/src/test/java/org/saharsh/samples/quarkus/resources/NativeValuesResourceIT.java
